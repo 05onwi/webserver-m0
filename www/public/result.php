@@ -33,7 +33,7 @@
         $points++;
 
 
-    echo '<strong>Du fick '.$points.' av 6 möjliga. '.$ansName.' </strong>';
+    echo '<strong>Du fick '.$points.' av 6 möjliga. Bra jobbat'.$ansName.' </strong>';
    
  
 ?>
