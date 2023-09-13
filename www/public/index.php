@@ -21,13 +21,13 @@
     <label>5+2</label><br>
     <input type="text" name="q2">
     <br>
-    <label>  5-2</label><br>
+    <label>  1+2</label><br>
     <input type="text" name="q3">
     <br>
-    <label>  5-2</label><br>
+    <label>  5*2</label><br>
     <input type="text" name="q4">
     <br>
-    <label>  5-2</label><br>
+    <label>  10-2</label><br>
     <input type="text" name="q5">
     <br>
     <label>  SKRIV NAMN</label><br>

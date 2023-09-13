@@ -27,9 +27,9 @@
         $points++;
     if($ansThree == '3')
         $points++;
-    if($ansFour == '3')
+    if($ansFour == '10')
         $points++;
-    if($ansFive == '3')
+    if($ansFive == '8')
         $points++;
 
 
